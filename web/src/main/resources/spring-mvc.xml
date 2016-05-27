@@ -9,6 +9,6 @@
 
     <context:annotation-config/>
     <mvc:annotation-driven/>
-    <context:component-scan base-package="com.github.shizuwei.controller"/>
+    <context:component-scan base-package="com.github.shizuwei"/>
 
 </beans>
