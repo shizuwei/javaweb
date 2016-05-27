@@ -1,0 +1,155 @@
+!SESSION 2016-05-27 14:45:42.065 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/bjhl/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/bjhl/.eclipse_keyring -showlocation
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 14:46:41.880
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 14:46:41.942
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY org.eclipse.core.resources 4 77 2016-05-27 14:50:40.856
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-05-27 14:50:40.856
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-05-27 14:50:40.856
+!MESSAGE /Users/bjhl/javaweb overlaps the workspace location: /Users/bjhl/javaweb
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-05-27 14:51:21.758
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-05-27 14:51:21.787
+!MESSAGE IvyDE plugin started
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 14:51:22.186
+!MESSAGE properties loading for project 'com.github.shizuwei.data'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 14:55:01.447
+!MESSAGE Could not read pom.xml
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:21:29.181
+!MESSAGE properties loading for project 'com.github.shizuwei.base'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:21:29.182
+!MESSAGE properties removing for project 'com.github.shizuwei.data'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:22:47.965
+!MESSAGE properties loading for project 'web'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-05-27 15:22:56.058
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-05-27 15:22:56.566
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:22:56.625
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:22:56.625
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:23:16.346
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/web/pom.xml)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:23:49.033
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for com.github.shizuwei:web:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Could not find artifact com.github.shizuwei:base:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 19, column 11
+ for project com.github.shizuwei:web:0.0.1-SNAPSHOT at /Users/bjhl/javaweb/web/pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:23:59.233
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for com.github.shizuwei:web:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Could not find artifact com.github.shizuwei:base:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 13
+ for project com.github.shizuwei:web:0.0.1-SNAPSHOT at /Users/bjhl/javaweb/web/pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:24:00.747
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for com.github.shizuwei:web:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Could not find artifact com.github.shizuwei:base:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 10
+ for project com.github.shizuwei:web:0.0.1-SNAPSHOT at /Users/bjhl/javaweb/web/pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:24:21.020
+!MESSAGE Failed to read Maven project: For artifact {null:web:null:war}: The groupId cannot be empty.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:25:30.127
+!MESSAGE Failed to read Maven project: For artifact {null:web:null:war}: The groupId cannot be empty.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:25:48.557
+!MESSAGE Failed to read Maven project: For artifact {null:web:null:war}: The groupId cannot be empty.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:25:48.557
+!MESSAGE Unable to read maven project. Dependencies not updated.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:26:10.685
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:26:10.685
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:26:22.876
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:26:22.877
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:30:25.083
+!MESSAGE Failed to build parent project for com.github.shizuwei:web:war:0.0.1-SNAPSHOT Error resolving project artifact: Could not find artifact com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT for project com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:30:28.611
+!MESSAGE Failed to build parent project for com.github.shizuwei:web:war:0.0.1-SNAPSHOT Error resolving project artifact: Could not find artifact com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT for project com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:31:49.521
+!MESSAGE Failed to build parent project for com.github.shizuwei:web:war:0.0.1-SNAPSHOT Error resolving project artifact: Could not find artifact com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT for project com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:31:59.349
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:31:59.349
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:33:38.607
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:33:38.607
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:33:39.506
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:33:39.507
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-05-27 15:34:05.673
+!MESSAGE Failed to build parent project for com.github.shizuwei:web:war:0.0.1-SNAPSHOT Error resolving project artifact: Could not find artifact com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT for project com.github.shizuwei:com.github.shizuwei.base:pom:0.0.1-SNAPSHOT
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:34:07.106
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:34:07.107
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:34:08.924
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:34:08.996
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:34:08.997
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY org.eclipse.ui 2 2 2016-05-27 15:34:42.256
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.usage, page: org.jboss.tools.usage.analytics.preferences.UsageAnalyticsPreferencePage)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:35:52.388
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:35:52.388
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:39:13.838
+!MESSAGE properties loading for project 'web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 15:39:13.840
+!MESSAGE loading file 'pom.properties'

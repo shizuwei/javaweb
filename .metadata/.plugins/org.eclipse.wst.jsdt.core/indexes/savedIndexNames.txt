@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/Users/bjhl/javaweb/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3926130084.index
+3173889610.index
+865960247.index
+3687205440.index
+1498010138.index
+2553767026.index
+1885157734.index
